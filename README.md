@@ -1,0 +1,1 @@
+This is an Arduino sketch (not a library) to control SG90 hobby servos, without using neither libraries nor interrupts. I use micros() to time things and not block other parts of the code. See more about the SG90 servo here: https://fritzenlab.net/2024/07/19/hobby-servo-motor-sg90-with-esp32-c6/
